@@ -25,3 +25,8 @@ Just download the newest release and unzip all the files. Then open Steam. In St
 ### 1. Errors
 
 You can search for errors. If you find an error, you can create a pull request.
+
+## How can I contact You?
+
+- [Twitter](https://twitter.com/Reecer_TV)
+- Discord: ReecerTV#5535
