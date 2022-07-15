@@ -22,4 +22,4 @@ Just download the newest release and unzip all the files. Then open Steam. In St
 
 ## How can I help?
 
-### Design
+### - Design
