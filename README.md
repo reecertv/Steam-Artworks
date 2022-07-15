@@ -7,6 +7,8 @@ A collection of various artwork covers for the Steam Library.
 Steam artwork covers are these things:
 
 ![Game: Superhot](./assets/exp_cover.png)
+![Game: Superhot](./assets/exp_cover2.png)
+![Game: Superhot](./assets/exp_cover3.png)
 
 You'll find the covers when you click on this:
 
